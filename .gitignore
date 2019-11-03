@@ -1,3 +1,7 @@
+
 _build/
 *.swp
 *.pyc
+
+.idea/
+*.iml
