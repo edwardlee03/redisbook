@@ -1,10 +1,11 @@
+
 digraph hash_table_example {
 
     // setting
 
     rankdir = LR;
 
-    node[shape=record, style = filled];
+    node[shape = record, style = filled];
 
     edge [style = bold];
 
